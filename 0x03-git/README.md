@@ -1,1 +1,1 @@
-Project about git
+Project about git and coding
